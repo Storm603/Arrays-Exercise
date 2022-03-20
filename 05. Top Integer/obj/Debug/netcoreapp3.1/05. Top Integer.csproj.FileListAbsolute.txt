@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\bin\Debug\netcoreapp3.1\05. Top Integer.exe
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\bin\Debug\netcoreapp3.1\05. Top Integer.deps.json
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\bin\Debug\netcoreapp3.1\05. Top Integer.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\bin\Debug\netcoreapp3.1\05. Top Integer.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\bin\Debug\netcoreapp3.1\05. Top Integer.dll
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\bin\Debug\netcoreapp3.1\05. Top Integer.pdb
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.dll
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.pdb
+C:\Users\Kristiyan\source\repos\Array Exercise\05. Top Integer\obj\Debug\netcoreapp3.1\05. Top Integer.genruntimeconfig.cache
